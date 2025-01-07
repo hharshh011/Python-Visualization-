@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard for Pharmaceutical Company
+# Sales Analysis for Pharmaceutical Company
 
 1. **Compare Sales by Region (2016 vs. 2015)**: Create a bar chart comparing sales across regions for the years 2015 and 2016.
 
